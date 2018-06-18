@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+Hello here is Sengül.
+Change is done by the Sengül.
